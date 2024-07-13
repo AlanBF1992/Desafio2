@@ -1,0 +1,22 @@
+main {
+	min-height: calc(100vh - 56px - 100px);
+}
+
+.margin10p {
+	margin-left: 10%!important;
+	margin-right: 10%!important;
+}
+
+.margin15p {
+	margin-left: 15%!important;
+	margin-right: 15%!important;
+}
+
+.margin20p {
+	margin-left: 20%!important;
+	margin-right: 20%!important;
+}
+
+footer {
+	min-height: 100px;
+}
